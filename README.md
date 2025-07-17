@@ -95,10 +95,7 @@ Before running this project, make sure you have:
 ```
 RAG Project/
 ├── data/                          # Data storage
-│   ├── chroma_langchain_db/       # Vector database files
-│   ├── content.pdf                # Sample PDF document
-│   └── content.txt                # Extracted text
-├── env_rag/                       # Virtual environment
+│   └── content.pdf                # Sample PDF document
 ├── notebooks/                     # Jupyter notebooks
 │   └── main.ipynb                # Development and testing notebook
 ├── src/                          # Source code
@@ -137,10 +134,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
